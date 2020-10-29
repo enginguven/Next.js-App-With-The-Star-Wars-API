@@ -1,0 +1,21 @@
+{
+  "name": "nextjsstarwarsapp",
+  "version": "1.0.0",
+  "description": "Next.js App With The Star Wars API",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "next": "^10.0.0",
+    "react": "^17.0.1",
+    "react-bootstrap": "^1.4.0",
+    "react-dom": "^17.0.1",
+    "slug": "^4.0.1"
+  },
+  "author": "Engin GÜVEN",
+  "license": "ISC"
+}
